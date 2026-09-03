@@ -1,0 +1,1 @@
+Detta är egentligen uppgift 1.2, Oops :)
