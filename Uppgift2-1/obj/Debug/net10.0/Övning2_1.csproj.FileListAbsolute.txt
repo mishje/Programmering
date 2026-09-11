@@ -1,0 +1,15 @@
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Övning2_1\bin\Debug\net10.0\Övning2_1.exe
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Övning2_1\bin\Debug\net10.0\Övning2_1.deps.json
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Övning2_1\bin\Debug\net10.0\Övning2_1.runtimeconfig.json
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Övning2_1\bin\Debug\net10.0\Övning2_1.dll
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Övning2_1\bin\Debug\net10.0\Övning2_1.pdb
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Övning2_1\obj\Debug\net10.0\Övning2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Övning2_1\obj\Debug\net10.0\Övning2_1.AssemblyInfoInputs.cache
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Övning2_1\obj\Debug\net10.0\Övning2_1.AssemblyInfo.cs
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Övning2_1\obj\Debug\net10.0\Övning2_1.csproj.CoreCompileInputs.cache
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Övning2_1\obj\Debug\net10.0\Övning2_1.sourcelink.json
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Övning2_1\obj\Debug\net10.0\Övning2_1.dll
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Övning2_1\obj\Debug\net10.0\refint\Övning2_1.dll
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Övning2_1\obj\Debug\net10.0\Övning2_1.pdb
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Övning2_1\obj\Debug\net10.0\Övning2_1.genruntimeconfig.cache
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Övning2_1\obj\Debug\net10.0\ref\Övning2_1.dll
