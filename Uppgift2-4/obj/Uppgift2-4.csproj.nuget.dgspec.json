@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anth09001\\Documents\\Prog\\test\\Uppgift2-4\\Uppgift2-4.csproj": {}
+    "C:\\Users\\anth09001\\Documents\\Prog\\repos\\Programmering\\Uppgift2-4\\Uppgift2-4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anth09001\\Documents\\Prog\\test\\Uppgift2-4\\Uppgift2-4.csproj": {
+    "C:\\Users\\anth09001\\Documents\\Prog\\repos\\Programmering\\Uppgift2-4\\Uppgift2-4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anth09001\\Documents\\Prog\\test\\Uppgift2-4\\Uppgift2-4.csproj",
+        "projectUniqueName": "C:\\Users\\anth09001\\Documents\\Prog\\repos\\Programmering\\Uppgift2-4\\Uppgift2-4.csproj",
         "projectName": "Uppgift2-4",
-        "projectPath": "C:\\Users\\anth09001\\Documents\\Prog\\test\\Uppgift2-4\\Uppgift2-4.csproj",
+        "projectPath": "C:\\Users\\anth09001\\Documents\\Prog\\repos\\Programmering\\Uppgift2-4\\Uppgift2-4.csproj",
         "packagesPath": "C:\\Users\\anth09001\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anth09001\\Documents\\Prog\\test\\Uppgift2-4\\obj\\",
+        "outputPath": "C:\\Users\\anth09001\\Documents\\Prog\\repos\\Programmering\\Uppgift2-4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anth09001\\AppData\\Roaming\\NuGet\\NuGet.Config",

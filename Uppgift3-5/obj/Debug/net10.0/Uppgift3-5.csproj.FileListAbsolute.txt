@@ -1,0 +1,15 @@
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Uppgift3-5\bin\Debug\net10.0\Uppgift3-5.exe
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Uppgift3-5\bin\Debug\net10.0\Uppgift3-5.deps.json
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Uppgift3-5\bin\Debug\net10.0\Uppgift3-5.runtimeconfig.json
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Uppgift3-5\bin\Debug\net10.0\Uppgift3-5.dll
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Uppgift3-5\bin\Debug\net10.0\Uppgift3-5.pdb
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Uppgift3-5\obj\Debug\net10.0\Uppgift3-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Uppgift3-5\obj\Debug\net10.0\Uppgift3-5.AssemblyInfoInputs.cache
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Uppgift3-5\obj\Debug\net10.0\Uppgift3-5.AssemblyInfo.cs
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Uppgift3-5\obj\Debug\net10.0\Uppgift3-5.csproj.CoreCompileInputs.cache
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Uppgift3-5\obj\Debug\net10.0\Uppgift3-5.sourcelink.json
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Uppgift3-5\obj\Debug\net10.0\Uppgift3-5.dll
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Uppgift3-5\obj\Debug\net10.0\refint\Uppgift3-5.dll
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Uppgift3-5\obj\Debug\net10.0\Uppgift3-5.pdb
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Uppgift3-5\obj\Debug\net10.0\Uppgift3-5.genruntimeconfig.cache
+C:\Users\anth09001\Documents\Prog\repos\Programmering\Uppgift3-5\obj\Debug\net10.0\ref\Uppgift3-5.dll

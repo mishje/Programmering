@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uppgift2-4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fc6544710dea6975fcfcaf7983ed2be77259678")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f498f5976313795f88275d7676380560b1d18fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uppgift2-4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uppgift2-4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
